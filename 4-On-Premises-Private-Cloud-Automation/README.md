@@ -1,4 +1,3 @@
-
 Course Outline: On-Premises Private Cloud Automation
 ================
 Lesson 1: Managing Multiple Cluster and Workload Resources
@@ -11,6 +10,7 @@ Lesson 1: Managing Multiple Cluster and Workload Resources
 6. Prism Central: Categories
 7. Prism Self Service
 8. Prism Central: Image Management
+
 Lesson 2: Calm Automation for Application Lifecycle Management
 ------------
 1. Calm basics
@@ -19,7 +19,8 @@ Lesson 2: Calm Automation for Application Lifecycle Management
 4. Calm Providers
 5. Calm Projects
 6. Calm RBAC
-7. The Nutanix Marketplace
+7. The Nutanix Marketplace \
+
 Lesson 3: Creating and Publishing a Single VM Blueprint
 ------------
 1. The Importance of Calm Blueprints and Marketplace Publishing
@@ -28,7 +29,8 @@ Lesson 3: Creating and Publishing a Single VM Blueprint
 4. Calm Blueprints: Overview
 5. Working with Calm Blueprints
 6. Managing Blueprints
-7. Working with the Marketplace Manager
+7. Working with the Marketplace Manager \
+
 Lesson 4: Creating and Publishing a Multi-VM Calm Blueprint
 ------------
 1. Lesson Overview
@@ -44,7 +46,8 @@ Lesson 4: Creating and Publishing a Multi-VM Calm Blueprint
 11. Linux Administration
 12. Web Server Administration
 13. Load Balancers
-14. Creating a Multi-VM Calm Blueprint
+14. Creating a Multi-VM Calm Blueprint \
+
 Lesson 5: Calm Automation for a Three-Tier Web Application with Lifecycle Management
 ------------
 1. MySQL Database Server Administration
