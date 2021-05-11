@@ -1,4 +1,4 @@
-Part 4: On-Premises Private Cloud Automation
+Part 4 : On-Premises Private Cloud Automation
 ================
 Lesson 1: Managing Multiple Cluster and Workload Resources
 ------------
