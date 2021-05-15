@@ -1,4 +1,4 @@
-Part 3 : Intro to Private and Hybrid Cloud Automation
+Part 5 : Public and Hybrid Cloud Management
 ================
 Lesson 1 : Strategies for Hybrid Cloud Design
 ------------
