@@ -1,3 +1,6 @@
+2381112042
+
+
 Part 2 : Modern Private Cloud Infrastructure
 ================
 Lesson 1 : Introduction to Nutanix Hybrid Cloud
@@ -68,6 +71,7 @@ Lesson 4 : Hybrid Cloud Security
  14. Security Technical Implementation Guides
  15. Data-at-Rest Encryption
  16. Role-Based Access Control
+
 Lesson 5 : Networking
 ------------
  1. Physical Networking Topology: Core-Aggregation-Access
@@ -85,6 +89,7 @@ Lesson 5 : Networking
  13. VLAN
  14. Unmanaged Networks
  15. Managed Networks
+
 Lesson 6 : Managing Virtual Machines in the Hybrid Cloud
 ------------
  1. Lesson Overview
@@ -97,6 +102,7 @@ Lesson 6 : Managing Virtual Machines in the Hybrid Cloud
  7. Migrating a VM
  8. Enabling VM HA
  9. Lesson Recap
+
 Lesson 7 : Data Protection
 ------------
  2. The Cost of a Disaster
@@ -113,5 +119,6 @@ Lesson 7 : Data Protection
  14. Converged Local Backup with Nutanix Snapshot
  15. Integrated Remote Backup
  16. Cloud Backups
+
 Project 2 : Private Cloud Web Application Infrastructure
 ------------
