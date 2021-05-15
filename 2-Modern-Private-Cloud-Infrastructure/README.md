@@ -101,7 +101,6 @@ Lesson 6 : Managing Virtual Machines in the Hybrid Cloud
  6. Deleting a VM
  7. Migrating a VM
  8. Enabling VM HA
- 9. Lesson Recap
 
 Lesson 7 : Data Protection
 ------------
